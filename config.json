@@ -1,21 +1,21 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "6283819140194@s.whatsapp.net",
+    "ownerName": "Dims",
+    "botName": "Orihime",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
-    "instagram": "https://instagram.com/riychdwayne",
+    "youtube": "https://youtube.com/channel/UCzpeUpGfMLXc_gfygJatKEg",
+    "instagram": "https://instagram.com/femzcol",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
         "prem": 35,
-        "user": 15
+        "user": 50
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "Orihime",
+        "author": "By FIVE Dims"
     }
 }
